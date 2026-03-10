@@ -1,1 +1,1 @@
-This folder contains screenshots for Lab 04.
+This folder contains screenshots for Lab 04
